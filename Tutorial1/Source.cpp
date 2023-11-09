@@ -13,8 +13,7 @@ int main()
 
 	myCharacter = 'n';
 	myInt = 12;
-	cout << myCharacter << endl;
-	cout << myInt << endl;
+
 
 	system("pause");
 }
